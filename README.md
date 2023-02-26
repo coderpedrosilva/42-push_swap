@@ -1,6 +1,6 @@
 # 42-push_swap
 
-O projeto Push swap é um projeto de algoritmo onde os dados devem ser ordenados e classificados. Existe à disposição um conjunto de valores inteiros, 2 pilhas e um conjunto de instruções para manipular ambas as pilhas.
+O projeto push swap é um projeto de algoritmo onde os dados devem ser ordenados e classificados. Existe à disposição um conjunto de valores inteiros, 2 pilhas e um conjunto de instruções para manipular ambas as pilhas.
 
 Trata-se de um programa de ordenação de dados, com um conjunto limitado de instruções, usando o menor número possível de ações. A pilha "A" contém uma quantidade aleatória de números negativos e/ou positivos que não podem ser duplicados. A pilha "B" inicia vazia.
 
